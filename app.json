@@ -7,7 +7,7 @@
         "rclone",
         "heroku"
     ],
-    "repository": "https://github.com/Pavithran-R/RcloneHeroku-Shell.git",
+    "repository": "https://github.com/Krishnakant-K2/Rclone-HerokuShell",
     "env": {
       "BOT_TOKEN": {
         "description": "The bot token provided by @BotFather",
